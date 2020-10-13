@@ -1,4 +1,4 @@
-# bitcoin_tracker
+## Bitcoin Tracker App
 
 A new Flutter application.
 
